@@ -1,0 +1,7 @@
+.rodapé {
+    background-color: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    padding: 25px 50px;
+    width: 100%;
+}

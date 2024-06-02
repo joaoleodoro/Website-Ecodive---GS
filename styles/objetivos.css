@@ -1,0 +1,85 @@
+.objetivos {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to bottom, #06141B 20%, #D9D9D9);
+    display: flex;
+    flex-direction: column;
+}
+
+.objetivos-direção {
+    display: flex;
+    justify-content: flex-start;
+    width: 23px;
+}
+
+.objetivos-direção-txt {
+    padding-top: 30px;
+    padding-left: 30px;
+    font-weight: 300;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.objetivos-textos {
+    display: flex;
+    flex-direction: row;
+    padding-top: 100px;
+    padding-left: 143px;
+    gap: 205px;
+
+}
+
+.objetivos-titulos {
+    display: flex;
+    flex-direction: column;
+    gap: 130px;
+}
+
+.objetivos-titulo1 {
+    width: 291px;
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+}
+
+.objetivos-titulo2 {
+    width: 329px;
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+}
+
+.objetivos-titulo3 {
+    width: 399px;
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+}
+
+.objetivos-parags {
+    display: flex;
+    flex-direction: column;
+    gap: 92px;
+}
+
+.objetivos-parag1 {
+    width: 574px;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+}
+
+.objetivos-parag2 {
+    width: 578px;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+}
+
+.objetivos-parag3 {
+    width: 574px;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+}

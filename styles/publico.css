@@ -1,0 +1,67 @@
+.publico-alvo {
+    width: 100%;
+    height: 100vh;
+    background-color: #d9d9d9;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.publico-direção {
+    display: flex;
+}
+
+.publico-direção-txt {
+    padding-top: 30px;
+    padding-left: 30px;
+    font-weight: 300;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #06141B;
+}
+
+.publico-textos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 143px;
+    padding-top: 90px;
+    gap: 105px;
+}
+
+.publico-titulo {
+    width: 281px;
+    height: 72px;
+    font-size: 30px;
+    font-weight: 400;
+    color: #06141B;
+}
+
+.publico-parags {
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+}
+
+.publico-parag1 {
+    width: 366px;
+    height: 245px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #06141B;
+}
+
+.publico-parag2 {
+    width: 338px;
+    height: 245px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #06141B;
+}
+
+.linha-vertical {
+    display: flex;
+    justify-content: center;
+    height: 264px;
+    border-right: 1px solid #06141B;
+}

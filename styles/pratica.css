@@ -1,0 +1,45 @@
+.pratica {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to bottom, #030f13, #D9D9D9);
+    display: flex;
+    justify-content: flex-start;
+}
+
+.pratica-direção {
+    display: flex;
+}
+
+.pratica-direção-txt {
+    padding-top: 30px;
+    padding-left: 30px;
+    font-weight: 300;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.pratica-textos {
+    display: flex;
+    align-items: center;
+}
+
+.pratica-parags {
+    display: flex;
+    flex-direction: column;
+    width: 765px;
+    height: 383px;
+    gap: 40px;
+}
+
+.pratica-parag1 {
+    font-size: 35px;
+    font-weight: 400;
+    color: white;
+}
+
+.pratica-parag2 {
+    font-size: 35px;
+    font-weight: 400;
+    color: white;
+}
