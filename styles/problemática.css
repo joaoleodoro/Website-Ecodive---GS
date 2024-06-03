@@ -1,7 +1,7 @@
 .problematica {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(to bottom, #D9D9D9, #0A212C );
+    background: linear-gradient(to bottom, #071822 20%, #D9D9D9);
     display: flex;
    justify-content: flex-start;
 }
@@ -17,7 +17,7 @@
     font-weight: 400;
     font-size: 20px;
     text-transform: uppercase;
-    color: #06141B;
+    color: white;
 }
 
 .problematica-textos {
